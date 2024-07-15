@@ -4,7 +4,6 @@
 No vídeo a seguir é possível descobrir como as IAs podem ajudar nos estudos, com exemplos de diversas plataformas de ensino com o uso IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para o roteiro.
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar o avatar.
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para sintetizar a voz do avatar.
@@ -17,5 +16,5 @@ Com o "ChatGPT" consegui criar o roteiro do vídeo, com o "Leonardo_AI" informei
 Vídeo curto sobre como as IAs podem auxiliar o estudo de disciplinas de uma forma prática.
 https://studio.d-id.com/share?id=bad74b8f53e2a8abae7bbd337c809498&utm_source=copy
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Foi uma ótima experiência criar esse vídeo usando IAs generativas, consegui absorver um grande conhecimento das IAs como um auxília na educação.
