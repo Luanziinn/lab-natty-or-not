@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IAs na Educação: Benefício ou Malefício?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+No vídeo a seguir é possível descobrir como as IAs podem ajudar nos estudos, com exemplos de diversas plataformas de ensino com o uso IA.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para o roteiro.
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar o avatar.
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para sintetizar a voz do avatar.
+- IA Generativa **[D-ID](https://www.d-id.com)** criação e edição do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com o "ChatGPT" consegui criar o roteiro do vídeo, com o "Leonardo_AI" informei a descrição do avatar para ser gerado, no "ElevenLabs" sintetizei a voz do avatar com o roteiro e por fim, no "D-ID" fiz a junção de tudo e realizei a edição do vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo curto sobre como as IAs podem auxiliar o estudo de disciplinas de uma forma prática.
+https://studio.d-id.com/share?id=bad74b8f53e2a8abae7bbd337c809498&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi uma ótima experiência criar esse vídeo usando IAs generativas, consegui absorver um grande conhecimento das IAs como um auxília na educação.
